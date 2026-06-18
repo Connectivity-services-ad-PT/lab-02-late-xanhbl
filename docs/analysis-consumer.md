@@ -4,7 +4,7 @@
 - **Product:** Smart Campus Operations Platform
 - **Consumer service:** Core Business
 - **Provider service:** Access Gate
-- **Người viết:** Nguyễn Minh Tuân — thực hiện cá nhân, mô phỏng vai trò tương ứng
+- **Người viết:** Hoàng Văn Xanh — thực hiện cá nhân, mô phỏng vai trò tương ứng
 - **Ngày:** 18/06/2026
 
 ---

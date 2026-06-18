@@ -6,7 +6,7 @@
 - **Consumer:** Core Business
 - **Phiên:** v1.0
 - **Ngày:** 18/06/2026
-- **Hình thức thực hiện:** Cá nhân — Nguyễn Minh Tuân mô phỏng hai vai trò Provider và Consumer trong phạm vi Pair 03.
+- **Hình thức thực hiện:** Cá nhân — Hoàng Văn Xanh mô phỏng hai vai trò Provider và Consumer trong phạm vi Pair 03.
 
 ---
 
@@ -84,8 +84,8 @@
 
 # Chốt hợp đồng v1.0
 
-- **Provider sign-off:** Nguyễn Minh Tuân — Access Gate (Provider, thực hiện cá nhân)
-- **Consumer sign-off:** Nguyễn Minh Tuân — Core Business (Consumer mô phỏng, thực hiện cá nhân)
+- **Provider sign-off:** Hoàng Văn Xanh — Access Gate (Provider, thực hiện cá nhân)
+- **Consumer sign-off:** Hoàng Văn Xanh — Core Business (Consumer mô phỏng, thực hiện cá nhân)
 - **Witness (GV/TA):** Chưa yêu cầu
 - **Date:** 18/06/2026
 

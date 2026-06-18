@@ -4,7 +4,7 @@ Gói này thay thế các file khung trong repository Lab 02 bằng nội dung c
 
 ## Cách áp dụng
 
-1. Tải ZIP và giải nén trực tiếp vào thư mục clone repository của GitHub `nguyenminhtuan1604`.
+1. Tải ZIP và giải nén trực tiếp vào thư mục clone repository `lab-02-late-xanhbl`.
 2. Cho phép ghi đè các file có cùng đường dẫn.
 3. Mở PowerShell tại thư mục repository và chạy:
 
@@ -29,7 +29,7 @@ npm run mock
 
 ## Trước khi nộp
 
-- Kiểm tra thông tin người thực hiện là Nguyễn Minh Tuân.
+- Thay `[Đại diện Core Business điền tên]` bằng tên thành viên phía Consumer.
 - Chạy lại `npm run lint`; chỉ nộp khi không có dòng `error`.
 - Kiểm tra `git status`.
 - Commit và push:
