@@ -1,44 +1,12 @@
-# Evidence Buổi 02
+# Evidence Buổi 02 — Pair 03
 
-Thư mục này lưu bằng chứng Lab 02.
+Thư mục này lưu minh chứng kiểm tra OpenAPI:
 
-Cần có:
+- `spectral-report.txt`: tạo bằng `npm run lint:report`.
+- `mock-screenshots/req-01-health.png`: `GET /health`.
+- `mock-screenshots/req-02-recent-logs.png`: `GET /access/logs/recent`.
+- `mock-screenshots/req-03-gate-status.png`: `GET /gates/{gateId}/status`.
+- `mock-screenshots/req-04-not-found.png`: lỗi 404.
+- `mock-screenshots/req-05-invalid-request.png`: lỗi 400.
 
-```text
-evidence/buoi-02/
-  README.md
-  checklist.md
-  known-issues.md
-  spectral-report.txt
-  tool-versions.txt
-  git-log.txt
-  mock-screenshots/
-    req-01-*.png
-    req-02-*.png
-    req-03-*.png
-    req-04-*.png
-    req-05-*.png
-```
-
-## Cách sinh report Spectral
-
-```bash
-./scripts/collect_session02_evidence.sh
-```
-
-Windows:
-
-```powershell
-.\scripts\collect_session02_evidence.ps1
-```
-
-## Ảnh mock server
-
-Lab 02 chưa yêu cầu Postman. Minh chứng nên là ảnh chụp Terminal/PowerShell khi chạy `curl` tới Prism mock server.
-
-Mỗi ảnh cần thể hiện:
-
-- lệnh `curl` trong Terminal/PowerShell;
-- status code;
-- response body;
-- URL `http://localhost:4010/...`.
+Mỗi ảnh cần thấy rõ lệnh curl, HTTP status code và response body.

@@ -33,7 +33,7 @@ Bài làm đạt yêu cầu khi:
 - Có tối thiểu 4 path phù hợp user story của cặp.
 - Có schema đặt trong `components/schemas`, dùng `$ref` thay vì inline schema dài.
 - Có ít nhất một ví dụ `oneOf` + `discriminator`.
-- Có ít nhất một trường dùng union type với `null`, ví dụ `type: [string, "null"]`.
+- Có ít nhất một trường cho phép `null`, ví dụ dùng `oneOf` gồm schema dữ liệu và `type: 'null'`.
 - Response lỗi 4xx/5xx dùng `Problem Details`.
 - File pass `spectral lint` với `campus-spectral.yaml`.
 - Mock server chạy được bằng Prism và có 5 request mẫu làm bằng chứng.
